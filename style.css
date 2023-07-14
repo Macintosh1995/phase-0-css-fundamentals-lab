@@ -2,4 +2,52 @@ body {
   width: 100%;
   height: 100%;
   margin: 0;
+  header >h1{
+    text-align: center;
+  }
+  nav{
+  text-align: center;
+  
+  
+  }
+  
+  nav a{
+    background-color: olivedrab;
+    padding-left: 10px; ;
+    padding-right: 10px;
+  }
+  
+  img{
+    text-align: center;
+  }
+  
+  #featured-property figure{
+   text-align: center;
+  }
+  #featured-property p{
+  
+  
+    width: 800px;
+  text-align:center;
+  padding-left: 20%;
+  
+  }
+  
+  
+  #details {
+  background-color: red;
+  }
+  
+  #details h3{
+    padding-bottom: 1em;
+  }
+  
+  #details div {
+  
+    text-align: center;
+    padding: 2em;
+    width: 20%;
+  display: inline-block;
+  
+  }
 }
